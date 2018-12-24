@@ -61,7 +61,30 @@
                Paulo Ribenboim</br>
                 <a href="https://github.com/manjunath5496/Math-Books/blob/master/sh84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
+16. Euclid's Elements of Geometry</br>
+                Richard Fitzpatrick</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/pdf095.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+ 17.  Proofs From the Book</br>
+                Martin Aigner</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/pdf96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+18.  Calculus Essentials For Dummies</br>
+                Mark Ryan</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/pdf0133.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+19. Flatland: A Romance of Many Dimensions</br>
+                Edwin A. Abbott</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/pdf760.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+20.  How to Solve It</br>
+              George Polya</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/pdf762.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
             
-		   
+           
+             
+
+ 	   
 		      
 		  
